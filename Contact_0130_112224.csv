@@ -23,4 +23,4 @@ Number,Name,Call ID,Type,Ring Style,Call Receive Tone
 22,ID4000,00004000,Private Call,None,Off
 23,SK3GA 1,02403056,Private Call,None,Off
 24,SK3GA 2,02403152,Private Call,None,Off
-26,TG240325,00240325,Private Call,None,Off
+26,TG240325,00240325,Group Call,None,On
