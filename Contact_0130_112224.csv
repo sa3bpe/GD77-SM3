@@ -1,0 +1,26 @@
+Number,Name,Call ID,Type,Ring Style,Call Receive Tone
+1,TG7,00000007,Group Call,None,Off
+2,TG8,00000008,Group Call,None,Off
+3,TG9,00000009,Group Call,None,Off
+4,TG91,00000091,Group Call,None,Off
+5,TG92,00000092,Group Call,None,Off
+6,TG927,00000927,Group Call,None,Off
+7,TG240,00000240,Group Call,None,Off
+8,TG240240,00240240,Group Call,None,Off
+9,TG2400,00002400,Group Call,None,Off
+10,TG2401,00002401,Group Call,None,Off
+11,TG2402,00002402,Group Call,None,Off
+12,TG2403,00002403,Group Call,None,Off
+13,TG2404,00002404,Group Call,None,Off
+14,TG2405,00000015,Group Call,None,Off
+15,TG2406,00002406,Group Call,None,Off
+16,TG2407,00002407,Group Call,None,Off
+17,TG2410,00002410,Group Call,None,Off
+18,TG2411,00002411,Group Call,None,Off
+19,TG2415,00002415,Group Call,None,Off
+20,TG2416,00002416,Group Call,None,Off
+21,TG9990,00009990,Private Call,None,Off
+22,ID4000,00004000,Private Call,None,Off
+23,SK3GA 1,02403056,Private Call,None,Off
+24,SK3GA 2,02403152,Private Call,None,Off
+26,TG240325,00240325,Private Call,None,Off
