@@ -2,7 +2,7 @@
 
 Codeplug for GD77 area SM3 - Sweden
 
-Just fill in your DMR-id and Call in CPS when programing your GD77. Codelug is updated randomly so please check back later again. 
+Just fill in your DMR-id and Call in CPS when programing your GD77. 
 
 Branch:
 
